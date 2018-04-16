@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">UI Lab</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_gohome">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="text_view_ex1">Hello All</string>
+    <string name="text_view_ex_phone">253 123 4567</string>
+    <string name="text_view_ex_email">beto1994@uw.edu</string>
+
+    <string name="nav_header_title">TCSS 450</string>
+    <string name="nav_header_sub_title">Spring 2018</string>
+    <string name="edit_view_hint">Type something!</string>
+
+    <string-array name="auto_complete_colors">
+        <item>red</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>blue</item>
+        <item>purple</item>
+        <item>black</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>magenta</item>
+    </string-array>
+    <string name="auto_complete_hint">Choose a color</string>
+    <string name="submit">Submit</string>
+
+    <string name="radioYes">Yes</string>
+    <string name="radioNo">No</string>
+    <string name="toppingMeat">meat</string>
+    <string name="toppingCheese">cheese</string>
+    <string name="toppingVegitables">vegetables</string>
+    <string name="toppingSauce">sauce</string>
+
+</resources>
